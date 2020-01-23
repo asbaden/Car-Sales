@@ -1,14 +1,9 @@
 import React from 'react';
 
 const AdditionalFeature = props => {
-  console.log("this is props in additional feature", props)
+  // console.log("this is props in additional feature", props)
   
-  const addFeature = (props) => {
-    console.log("this is props")
-    
-    return(props.addFeature(props.feature)
-    )
-}
+
   
   
   return (
